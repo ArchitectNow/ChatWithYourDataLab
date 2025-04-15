@@ -31,6 +31,10 @@ bld/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
+chatbotenvai3/
+.DS_Store
+.idea/
+.env
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
